@@ -1,0 +1,14 @@
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Work\Lab_08\bin\Debug\Ch12SBS2.exe.config
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Work\Lab_08\obj\Debug\Ch12SBS2.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Work\Lab_08\obj\Debug\Ch12SBS2.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Work\Lab_08\obj\Debug\Ch12SBS2.pdb
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\bin\Debug\Ch12SBS2.exe.config
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\obj\Debug\Ch12SBS2.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\obj\Debug\Ch12SBS2.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\obj\Debug\Ch12SBS2.pdb
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\bin\Debug\Ch12SBS2.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\bin\Debug\Ch12SBS2.pdb
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\bin\Debug\Ch12SBS2.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\obj\Debug\Ch12SBS2.SalesForm.resources
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\obj\Debug\Ch12SBS2.Resources.resources
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\labs\code\Lab_08_Solution\Lab_08\obj\Debug\Lab_08.vbproj.GenerateResource.Cache

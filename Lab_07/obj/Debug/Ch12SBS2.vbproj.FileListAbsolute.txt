@@ -1,0 +1,49 @@
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.pdb
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\bin\Debug\Ch12SBS2.exe
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\bin\Debug\Ch12SBS2.pdb
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\bin\Debug\Ch12SBS2.xml
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.SalesForm.resources
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.Resources.resources
+C:\Users\Anita\Documents\VB 2008\2005 In Chapter Programs\Chap12\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\bin\Debug\Ch12SBS2.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\bin\Debug\Ch12SBS2.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\bin\Debug\Ch12SBS2.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.SalesForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap12\Ch12SBS2\obj\Debug\Ch12SBS2.vbproj.GenerateResource.Cache
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\obj\Debug\Ch12SBS2.pdb
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.pdb
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.exe
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.pdb
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.xml
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.SalesForm.resources
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.Resources.resources
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.exe.config
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anita\Documents\VB2010\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.exe.config
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.pdb
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Work\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.exe.config
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Work\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Work\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\3726\Ch12\Work\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.pdb
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\handson\code\Archive\Ch12_Examples\Work\Ch12SBS2\Ch12SBS2\bin\Debug\Ch12SBS2.exe.config
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\handson\code\Archive\Ch12_Examples\Work\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.exe
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\handson\code\Archive\Ch12_Examples\Work\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.xml
+C:\Users\anthony.Office\Documents\Personal\YSU\Teaching\Webroot\CSIS3726\handson\code\Archive\Ch12_Examples\Work\Ch12SBS2\Ch12SBS2\obj\Debug\Ch12SBS2.pdb

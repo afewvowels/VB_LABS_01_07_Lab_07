@@ -1,0 +1,12 @@
+bin\Debug\Ch12SBS.exe.config
+bin\Debug\Ch12SBS.exe
+bin\Debug\Ch12SBS.pdb
+bin\Debug\Ch12SBS.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ch12SBS.salesForm.resources
+obj\Debug\Ch12SBS.Resources.resources
+obj\Debug\Ch12SBS.vbproj.GenerateResource.Cache
+obj\Debug\Ch12SBS.exe
+obj\Debug\Ch12SBS.xml
+obj\Debug\Ch12SBS.pdb
+bin\Debug\Ch12SBS2.exe.config
