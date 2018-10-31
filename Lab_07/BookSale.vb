@@ -82,6 +82,7 @@ Public Class BookSale
         ExtendedPriceDecimal = Price * Quantity
     End Sub
 
+    ' Update accumulator with calculated extended price value
     Private Sub AddToAccumulator()
         AccumulatorSalesTotalDecimal += ExtendedPrice
     End Sub

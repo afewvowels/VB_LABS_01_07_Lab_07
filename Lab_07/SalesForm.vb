@@ -28,9 +28,6 @@ Public Class SalesForm
 
             ' Display the calculated extended price result
             ExtendedPriceTextBox.Text = TheBookSale.ExtendedPrice.ToString("c")
-
-            ' Display total sales accumulated
-            TotalSalesTextBox.Text = BookSale.AccumulatorSalesTotal.ToString("c")
         Catch ex As FormatException
             MessageBox.Show("Must use numeric values for quantity and price",
                             "Format Exception",
@@ -45,7 +42,6 @@ Public Class SalesForm
     Private Sub ClearToolStripMenuItem_Click(ByVal sender As System.Object,
       ByVal e As System.EventArgs) Handles ClearToolStripMenuItem.Click
         ' Clear the screen controls.
-
         QuantityTextBox.Clear()
         PriceTextBox.Clear()
         ExtendedPriceTextBox.Clear()
@@ -58,7 +54,6 @@ Public Class SalesForm
     Private Sub ExitToolStripMenuItem_Click(ByVal sender As System.Object,
       ByVal e As System.EventArgs) Handles ExitToolStripMenuItem.Click
         ' Exit the program.
-
         Me.Close()
     End Sub
 
